@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.item-card-container {
+  background-color: #ffffff;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  margin: 12px;
+  height: 180px;
+  width: 180px;
+}
+
+.image {
+  height: 150px;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #0f172a;
+}
